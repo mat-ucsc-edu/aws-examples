@@ -1,5 +1,5 @@
 # aws-examples::Drupal Demo
-These templates demostrate a three teir application that is common in many older and current applications. There are more mordern and distrubted designs that are becoming more common, however, here we are attempting to demostrate patterns that are in actual deployments for our institution. It is not intended to specifically demostrate drupal, it was simply the closed AWS supplied starting point. Actual applications in use in our instution either require licensing or use of DNS or other more expensive resources in AWS. These examples balance low cost and simplicity with still demostrating a reasonable pattern that would be familar to staff working in AWS for us. 
+These templates demostrate a three teir application that is common in many current applications. There are more mordern designs that are becoming common, however, here we are attempting to demostrate patterns that are seen actual deployments for our institution. It is not intended to specifically demostrate drupal. Rather it is meant to be a fast and low cost demostration that is also has design patterns that would be familar to staff working in AWS for us. 
 
 ## Overview
 ![architecture-overview](images/diag.png)
